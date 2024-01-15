@@ -1,0 +1,3 @@
+@echo off
+echo Starting RIDLE...
+start node module-installer.js
